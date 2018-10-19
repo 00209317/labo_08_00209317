@@ -113,13 +113,13 @@ window.addEventListener('load', () => {
 
     /*
     ¿Qué es lo que obtenemos cuando se realiza document.querySelector(".tabla-btc tbody") ?
-    
+    Obtenemos cada fila de la tabla bitacora
     ¿Qué hace el método childElementCount?
-
+    Devuelve el numero de hijos que tiene
     ¿Qué se mostrara en pantalla cuando se ejecute la función agregar()?
-
+    No se muestra nada hasta que se ejecute mostrar
     ¿Qué se mostrara en el navegador despues de ejecutar la función mostrar?
-
+    Muestra la tabla bitacora y llena el registro
  */
 
 });
